@@ -12,7 +12,7 @@
     display:flex;
     align-items:center;
     justify-content: center;
-    background: url(/projects/photo/background.jpg);
+    background: url(/photo/background.jpg);
     background-size: cover;
 }
 
