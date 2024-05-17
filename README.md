@@ -26,7 +26,7 @@
 
 
 
-**How to Use**
+**How to Use:-**
 
 1.Clone the repository to your local machine.
 
@@ -36,7 +36,7 @@
 
 
 
-**Future Enhancements**
+**Future Enhancements:-**
 
 1.Additional Features: Adding functions like square root and power.
 
