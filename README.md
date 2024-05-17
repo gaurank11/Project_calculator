@@ -1,9 +1,9 @@
 # Project_calculator
 
-**Project Overview+**
+##**Project Overview+**
 *This project demonstrates fundamental web development skills through the creation of a basic calculator. It supports essential arithmetic operations like addition, subtraction, multiplication, and division.*
 
-**Features:-**
+##**Features:-**
 
 1.Clear and Delete Functions: Reset the display or remove the last character.
 
@@ -13,10 +13,13 @@
 
 4.User-friendly Interface: Intuitive layout with well-designed buttons and display.
 
-##Technologies Used##
--HTML: Structure of the calculator.
+##**Technologies Used:-**
+
+*HTML: Structure of the calculator.
+
 *CSS: Styling for a visually appealing and user-friendly interface.
-+JavaScript: Logic for handling inputs and performing calculations.
+
+*JavaScript: Logic for handling inputs and performing calculations.
 
 ##How to Use##
 1.Clone the repository to your local machine.
